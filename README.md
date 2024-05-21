@@ -1,8 +1,8 @@
--  Hi, I’m @samzvedo
+-  Hi, I’m Samuel Azevedo
 - I’m interested in english and Systems analysis and development..
 - I’m currently learning ..Systems analysis and development.
 -  How to reach me : on instagram @samzvdo
-- Fluent English
+- Fluent in English
 
 <!---
 samzvedo/samzvedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
